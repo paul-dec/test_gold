@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>GOLD SRC</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="style.css"/>
+    <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800&display=swap" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css" rel="stylesheet">
+</head>
+<body>
+  <div class="navbar">
+    <a class="navbar-button" href="#header">Home</a>
+    <a class="navbar-button" href="#projects">Projects</a>
+    <img src="src/logo.svg" class="navbar-logo">
+    <a class="navbar-button" href="#work">How we work</a>
+    <a class="navbar-button" href="#contact">Contact</a>
+  </div>
+  <div class="header" id="header">
+    <h1 class="header-title">Imagine an online&nbsp;<i>experience</i>.</h1>
+    <h1 class="header-title">We'll make it&nbsp;<i>reality</i></h2>
+    <a class="header-button" href="#contact">Start your project now</a>
+  </div>
+  <div class="projects" id="projects">
+    <div class="projects-row">
+      <div class="projects-small-bloc">
+        <img src="src/projects1.avif" class="projects-small-picture">
+        <div class="projects-small-bloc-inside">
+          <h2 class="projects-bloc-inside-title">Un site web pour vos liens</h2>
+          <a class="projects-bloc-inside-button">Voir un exemple&nbsp;<i class="fa-solid fa-arrow-up-right-from-square"></i></a>
+        </div>
+      </div>
+      <div class="projects-large-bloc">
+        <img src="src/projects1.avif" class="projects-large-picture border-large-picture">
+        <div class="projects-large-bloc-inside border-large-inside">
+          <h2 class="projects-bloc-inside-title">Un site web pour vos liens</h2>
+          <a class="projects-bloc-inside-button">Voir un exemple&nbsp;<i class="fa-solid fa-arrow-up-right-from-square"></i></a>
+        </div>
+      </div>
+    </div>
+    <div class="projects-row">
+      <div class="projects-large-bloc"></div>
+      <div class="projects-small-bloc"></div>
+    </div>
+  </div>
+  <div class="work" id="work">
+    <h2 class="work-title">How we&nbsp;<i>work</i></h2>
+    <div class="work-row">
+      <div class="work-bloc">
+        <h3 class="work-bloc-title">Define and plan</h3>
+        <p class="work-bloc-text">Let's define together your needs and establish the most clear roadmap to reach the goals in an appropriate time and manner.</p>
+      </div>
+      <div class="work-bloc">
+        <h3 class="work-bloc-title">Imagine and build</h3>
+        <p class="work-bloc-text">We start with imagining the ideal outcome and requirements for the project together and focus on building the design of your dreams.</p>
+      </div>
+      <div class="work-bloc">
+        <h3 class="work-bloc-title">Follow-up and support</h3>
+        <p class="work-bloc-text">There will be continuous alignments including follow-ups and a thorough hand-off - Every step to delivery by your side.</p>
+      </div>
+    </div>
+  </div>
+  <div class="contact" id="contact">
+    <h2 class="contact-title">Tell us about your&nbsp;<i>project</i></h2>
+    <script type='module'>
+      import { validateFormOnSubmit } from "./sendMail.js";
+      window.validateFormOnSubmit = validateFormOnSubmit;
+    </script>
+    <form action="#" onsubmit="return validateFormOnSubmit(this);">
+      <div class="contact-row">
+        <input class="contact-small-input" type="text" id="cname" name="cname" placeholder="Company Name">
+        <input class="contact-small-input" type="text" id="cwebsite" name="cwebsite" placeholder="Company Website">
+        <div class="contact-spacer"></div>
+      </div>
+      <div class="contact-row">
+        <input class="contact-small-input" type="text" id="name" name="name" placeholder="Your name">
+        <input class="contact-small-input" type="text" id="email" name="email" placeholder="Business Email">
+        <input class="contact-small-input" type="text" id="phone" name="phone" placeholder="Phone number">
+      </div>
+      <div class="contact-row">
+        <textarea class="contact-big-input" type="text" id="desc" name="desc" placeholder="Description of your project"></textarea>
+        <input class="contact-send-input" type="submit" value="SEND">
+      </div>
+    </form>
+  </div>
+</body>
+</html>

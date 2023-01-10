@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="856px" height="856px" viewBox="0 0 856 856" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>GoldSRC - logo</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="GoldSRC---logo" transform="translate(28.000000, 28.000000)">
+            <rect id="Rectangle" fill="#ECEBEA" x="0" y="0" width="800" height="800" rx="40"></rect>
+            <path d="M37,0 L80,0 L80,0 L80,80 L0,80 L0,37 C-2.50250888e-15,16.5654643 16.5654643,3.75376332e-15 37,0 Z" id="Rectangle" fill="#FF9601"></path>
+            <rect id="Rectangle" fill="#FF9601" opacity="0.9" x="0" y="80" width="80" height="80"></rect>
+            <rect id="Rectangle" fill="#FF9601" opacity="0.9" x="80" y="0" width="80" height="80"></rect>
+            <rect id="Rectangle" fill="#FF9601" opacity="0.8" x="0" y="160" width="80" height="80"></rect>
+            <rect id="Rectangle" fill="#FF9601" opacity="0.7" x="320" y="160" width="80" height="80"></rect>
+            <rect id="Rectangle" fill="#FF9601" opacity="0.75" x="240" y="160" width="80" height="80"></rect>
+            <rect id="Rectangle" fill="#FF9601" opacity="0.8" x="160" y="160" width="80" height="80"></rect>
+            <rect id="Rectangle" fill="#FF9601" opacity="0.8" x="160" y="0" width="80" height="80"></rect>
+            <rect id="Rectangle" fill="#FF9601" opacity="0.7" x="0" y="240" width="80" height="80"></rect>
+            <rect id="Rectangle" fill="#FF9601" opacity="0.65" x="320" y="240" width="80" height="80"></rect>
+            <rect id="Rectangle" fill="#FF9601" opacity="0.75" x="160" y="240" width="80" height="80"></rect>
+            <rect id="Rectangle" fill="#FF9601" opacity="0.7" x="240" y="0" width="80" height="80"></rect>
+            <rect id="Rectangle" fill="#FF9601" opacity="0.6" x="0" y="320" width="80" height="80"></rect>
+            <rect id="Rectangle" fill="#FF9601" opacity="0.65" x="240" y="320" width="80" height="80"></rect>
+            <rect id="Rectangle" fill="#FF9601" opacity="0.6" x="320" y="320" width="80" height="80"></rect>
+            <rect id="Rectangle" fill="#FF9601" opacity="0.7" x="160" y="320" width="80" height="80"></rect>
+            <rect id="Rectangle" fill="#FF9601" opacity="0.6" x="320" y="0" width="80" height="80"></rect>
+            <rect id="Rectangle" fill="#FF9601" opacity="0.5" x="0" y="400" width="80" height="80"></rect>
+            <rect id="Rectangle" fill="#FF9601" opacity="0.4" x="560" y="400" width="80" height="80"></rect>
+            <rect id="Rectangle" fill="#FF9601" opacity="0.55" x="320" y="400" width="80" height="80"></rect>
+            <rect id="Rectangle" fill="#FF9601" opacity="0.65" x="160" y="400" width="80" height="80"></rect>
+            <rect id="Rectangle" fill="#FF9601" opacity="0.5" x="400" y="0" width="80" height="80"></rect>
+            <rect id="Rectangle" fill="#FF9601" opacity="0.4" x="0" y="480" width="80" height="80"></rect>
+            <rect id="Rectangle" fill="#FF9601" opacity="0.4" x="480" y="0" width="80" height="80"></rect>
+            <rect id="Rectangle" fill="#FF9601" opacity="0.45" x="480" y="400" width="80" height="80"></rect>
+            <rect id="Rectangle" fill="#FF9601" opacity="0.5" x="480" y="320" width="80" height="80"></rect>
+            <rect id="Rectangle" fill="#FF9601" opacity="0.55" x="480" y="240" width="80" height="80"></rect>
+            <rect id="Rectangle" fill="#FF9601" opacity="0.6" x="480" y="160" width="80" height="80"></rect>
+            <rect id="Rectangle" fill="#FF9601" opacity="0.3" x="0" y="560" width="80" height="80"></rect>
+            <rect id="Rectangle" fill="#FF9601" opacity="0.3" x="560" y="0" width="80" height="80"></rect>
+            <rect id="Rectangle" fill="#FF9601" opacity="0.2" x="0" y="640" width="80" height="80"></rect>
+            <rect id="Rectangle" fill="#FF9601" opacity="0.2" x="640" y="0" width="80" height="80"></rect>
+            <rect id="Rectangle" fill="#FF9601" opacity="0.35" x="640" y="400" width="80" height="80"></rect>
+            <rect id="Rectangle" fill="#FF9601" opacity="0.4" x="640" y="320" width="80" height="80"></rect>
+            <rect id="Rectangle" fill="#FF9601" opacity="0.45" x="640" y="240" width="80" height="80"></rect>
+            <rect id="Rectangle" fill="#FF9601" opacity="0.5" x="640" y="160" width="80" height="80"></rect>
+            <path d="M0,720 L80,720 L80,800 L55,800 C24.6243388,800 3.71994563e-15,775.375661 0,745 L0,720 L0,720 Z" id="Rectangle" fill="#FF9601" opacity="0.1"></path>
+            <path d="M720,0 L760,0 C782.09139,-4.05812251e-15 800,17.90861 800,40 L800,80 L800,80 L720,80 L720,0 Z" id="Rectangle" fill="#FF9601" opacity="0.1"></path>
+            <text id="SOURCE" font-family="JetBrainsMono-ExtraBold, JetBrains Mono" font-size="155" font-weight="700" fill="#131415">
+                <tspan x="160" y="678">SOURCE</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#131415" stroke-width="28" x="-14" y="-14" width="828" height="828" rx="72"></rect>
+        </g>
+    </g>
+</svg>
